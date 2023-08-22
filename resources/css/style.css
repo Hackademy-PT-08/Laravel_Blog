@@ -1,0 +1,28 @@
+.bg-aqua{
+    background-color: #01a4b3;
+}
+
+.bg-orange{
+    background-color: #f69301;
+}
+
+.bg-brown{
+    background-color: #452a17;
+}
+
+.bg-profile{
+    background-image: url(/public/image/vecteezy_abstract-orange-fluid-wave-background_.jpg);
+    background-size: cover;
+}
+
+.bg-register{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/447/761/original/abstract-red-fluid-wave-background-free-vector.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+.bg-login{
+    background-image: url(https://img.freepik.com/free-vector/gradient-monochromatic-abstract-background_52683-74300.jpg);
+    background-size: cover;
+    height: 100%;
+}
